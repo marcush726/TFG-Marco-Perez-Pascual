@@ -21,11 +21,10 @@ El proyecto está organizado de la siguiente manera:
 
 * `codigo_R/`: Contiene los scripts utilizados para las simulaciones numéricas y la generación de gráficos.
   * `ModeloSIS.R`: Simulación de trayectorias, cálculo de distribuciones y gráficos del modelo SIS.
-  * `ModeloSIR.R`: Subgenerador y distribución del cociente de medias (RE) para el modelo SIR.
-  * `ModeloSIRS.R`: Análisis del régimen cuasiestacionario y el efecto de la pérdida de inmunidad en el modelo SIRS.
-* `Memoria_TFG.pdf`: Documento completo con el desarrollo teórico y los resultados de los experimentos matemáticos. *(Nota: Sube tu PDF final aquí)*.
+  * `ModeloSIR.R`: Simulación de trayectorias, cálculo de distribuciones y gráficos del modelo SIR.
+  * `ModeloSIRS.R`: Simulación de trayectorias, cálculo de distribuciones y gráficos del modelo SIRS.
 
 ## Tecnologías Utilizadas
 
-* **R**: Para la simulación estocástica de procesos de Markov, cálculo de autovalores/autovectores de las matrices de transición y visualización de datos.
+* **R**: Para la programación.
 * **LaTeX**: Para la redacción y maquetación formal de la memoria matemática.
